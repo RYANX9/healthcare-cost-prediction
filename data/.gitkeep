@@ -1,0 +1,2 @@
+# This file ensures the 'data' directory is tracked by Git, even when empty.
+# Place the downloaded 'insurance.csv' dataset from Kaggle in this folder.
