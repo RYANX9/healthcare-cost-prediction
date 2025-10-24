@@ -215,7 +215,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 📧 Contact
 
-For questions, suggestions, or collaborations, please open an issue or contact me at **[your.email@example.com](mailto:your.email@example.com)**.
+For questions, suggestions, or collaborations, please open an issue or contact me at **[ahmed.messaad@outlook.com](mailto:ahmed.messaad@outlook.com)**.
 
 ---
 
