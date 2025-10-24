@@ -1,10 +1,3 @@
-Execute: Rewrite the `README.md` below for a natural, human tone — while keeping it professional and explicitly stating that the dataset comes from Kaggle.
-
----
-
-### Final Output
-
-```markdown
 # 🩺 Healthcare Cost Prediction Using Neural Networks
 
 This project predicts **healthcare insurance costs** using a **Conv1D neural network** built with TensorFlow and Keras.  
